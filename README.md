@@ -33,7 +33,7 @@ This project is licensed under the [MIT License](http://choosealicense.com/licen
 
 For questions about this project, please contact:
 - GitHub: [@chrisllanos](https://github.com/chrisllanos)
-- Deployed Application Link: 
+- Deployed Application Link: https://notepadonthego-00d24a7187d0.herokuapp.com/
 - GitHub Repository: https://github.com/chrisllanos/notepadonthego
 
 ![screenshot of app](public/assets/screenshot.png)
